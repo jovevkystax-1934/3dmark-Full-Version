@@ -232,4 +232,4 @@ This repository serves as the official landing page for 3DMark. The software is 
 **Get the most recent version of 3DMark today!**
 
 ---
-**Last updated:** 2026-10-05 01:39:05 UTC
+**Last updated:** 2026-10-05 08:27:06 UTC
